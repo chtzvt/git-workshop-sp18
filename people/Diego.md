@@ -1,8 +1,4 @@
-#Welcome to githubland!!!
-Things I like:
-:door: :soccer: :video_game:
+# Welcome to githubland!!!
 
-![image of a senpai]
-(https://gph.is/28UH1nW)
-
+![image of a senpai](https://i.imgur.com/Bf7nf6f.gif)
 > Please notice me senpai.....
